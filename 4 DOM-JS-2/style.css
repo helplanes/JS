@@ -1,0 +1,48 @@
+
+.color{
+    display: inline-block;
+    top: 50%;
+    left: 50%;
+    
+}
+.color:hover{
+    height: 30px;
+}
+
+.red{
+    width: 90px;
+    height: 20px;
+    background: red;
+    border: 2px solid black;
+}
+.cyan{
+    width: 90px;
+    height: 20px;
+    background: cyan;
+    border: 2px solid black;
+}
+.violet{
+    width: 90px;
+    height: 20px;
+    background: violet;
+    border: 2px solid black;
+}
+.orange{
+    width: 90px;
+    height: 20px;
+    background: orange;
+    border: 2px solid black;
+}
+.pink{
+    width: 90px;
+    height: 20px;
+    background: pink;
+    border: 2px solid black;
+}
+
+.center{
+    width: 90px;
+    height: 90px;
+    background: pink;
+    border: 2px 2px 2px 2px solid black;
+}

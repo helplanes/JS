@@ -1,0 +1,32 @@
+AIM.txt
+------------------------------
+[CARS]
+BMW M4 Competition
+or
+Mustang GT 
+
+------------------------------
+[MOVIES]
+Hey Papa
+
+------------------------------
+[COMP PROG]
+CodeForces
+LeetCode
+
+------------------------------
+[PROJECTS]
+Js:-
+  1. Peronsal Portfolio
+  2. Practise Frontend Projects 
+  3. BackEnd Projects
+  4. Open-Source
+Java:-
+  1. LeetCode
+  2. System Design
+Python:-
+  1.
+------------------------------
+[TECH]
+Monitor:- 
+KeyBoard:- Ajazz AK870 (with Screen) {}

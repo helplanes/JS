@@ -1,0 +1,31 @@
+let score = 92;
+function addBonusMarks() {
+    score = score + 8;
+    return score;
+};
+
+//Func Prog Way
+functionAddBonus(score){
+    reutrn score +45;
+};
+
+state change -----------
+
+hitesh = "hey";
+hitesh = "hey there";
+hitesh = "hey everyone";
+
+  hitesh = "hey";
+  hiteshOnWednesday = "hey there"
+  hiteshOnSaturday = "sup man"
+
+---------------------------------------------------
+
+**Functions are treated as first class**
+  - const h = 45;
+  - const name = "krish";
+
+  - const addScore = function(){....}
+  - sayHello (function){.....}{
+    return function(){.....}
+  }\
