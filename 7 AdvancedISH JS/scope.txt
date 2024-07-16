@@ -1,0 +1,6 @@
+ Yes, scope is a big issue in JS.
+
+ {}  - Scopes in most languages 
+ In JS fn - scope.
+
+ 'Let' keyword is mostly used for backend as it helps in solving errors and knowing about them.
